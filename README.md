@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nimeshdahal4real
 - 👀 I’m interested in coding
-- 🌱 I’m currently an absolute beginner.
+- 🌱 I still consider myself as a beginner.
 - 💞️ I’m looking to explore and share learning advices
 
 
